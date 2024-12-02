@@ -12,7 +12,7 @@ This project provides an in-depth analysis of FIFA World Cup 2022 data using SQL
 ## Tools Used
 - **SQL**: For querying and managing data.
 - **Google Cloud**: For hosting and data management.
-- **Visualization Tools**: [Specify tools used, e.g., Tableau, Power BI].
+- **Visualization Tools**: [Metabase].
 
 ## How to Use
 1. Review the `Docs` folder for project details.
@@ -21,4 +21,4 @@ This project provides an in-depth analysis of FIFA World Cup 2022 data using SQL
 4. Visualizations can be found in the `Visualizations` folder for insights.
 
 ## Author
-- [Your Name]
+- Mohamed Elmonoufy
